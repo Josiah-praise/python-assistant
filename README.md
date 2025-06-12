@@ -22,7 +22,7 @@ Smart Code Assistant is an intelligent, web-based coding assistant built with **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/smart-code-assistant.git
+git clone https://github.com/josiah-praise/smart-code-assistant.git
 cd smart-code-assistant
 ```
 
